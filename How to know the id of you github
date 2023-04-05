@@ -5,3 +5,18 @@ Go to --> https://api.github.com/users/CodifyM  (of whomsoever id you want, you 
 
 Step2:
 Press Enter
+
+
+Alternatively:
+
+To obtain tokens on Git, you can follow these steps:
+
+Log in to your Git account and go to your account settings.
+Click on the "Developer settings" tab.
+Click on the "Personal access tokens" link.
+Click on the "Generate new token" button.
+Enter a description for the token to help you remember its purpose.
+Choose the scopes or permissions you want to grant the token. These permissions will determine what actions the token can perform on your behalf.
+Click on the "Generate token" button to generate the token.
+Copy the token to your clipboard and store it in a secure location. Note that you will not be able to see the token again after you leave this page.
+Once you have obtained a token, you can use it to authenticate with Git when making API calls or accessing Git resources. Be sure to keep your token secure and do not share it with others.
